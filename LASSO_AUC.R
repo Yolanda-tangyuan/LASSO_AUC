@@ -1,7 +1,3 @@
-*.js linguist-language=R
-*.css linguist-language=R
-*.html linguist-language=R
-*.java linguist-language=R
 
 
 #参考https://cloud.tencent.com/developer/article/1621581
